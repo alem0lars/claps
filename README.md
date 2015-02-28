@@ -4,4 +4,4 @@
 
 ## Services
 
-TBD
+[![Build Status](https://travis-ci.org/alem0lars/claps.svg?branch=develop)](https://travis-ci.org/alem0lars/claps)
