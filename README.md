@@ -1,2 +1,3 @@
-# claps
-CLAPS - Colors Like A Pony Salad
+# CLAPS
+
+**Colors Like A Pony Salad** ❤
