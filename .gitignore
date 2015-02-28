@@ -1,17 +1,21 @@
+# Compiled files.
 *.class
+
+# Log files.
 *.log
 
-# sbt specific
+# SBT-specific files.
 .cache/
 .history/
 .lib/
 dist/*
-target/
+**/target/
 lib_managed/
 src_managed/
 project/boot/
 project/plugins/project/
 
-# Scala-IDE specific
+# IDE/Editors-specific files.
 .scala_dependencies
 .worksheet
+.idea/
