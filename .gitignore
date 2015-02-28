@@ -4,7 +4,7 @@
 # Log files.
 *.log
 
-# SBT-specific files.
+# SBT.
 .cache/
 .history/
 .lib/
@@ -15,7 +15,17 @@ src_managed/
 project/boot/
 project/plugins/project/
 
-# IDE/Editors-specific files.
+# Scala-IDE.
 .scala_dependencies
 .worksheet
+
+# IntelliJ IDEA.
 .idea/
+
+# VIm.
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
